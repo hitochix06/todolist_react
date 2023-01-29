@@ -1,3 +1,12 @@
+h1 {
+  color: blue;
+  text-align: center;
+  margin: 50px;
+  font-size: 50px;
+  color: blue;
+  font-family: "Times New Roman", Times, serif;
+}
+
 .App {
   text-align: center;
 }
