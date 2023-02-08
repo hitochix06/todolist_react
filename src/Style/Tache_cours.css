@@ -1,0 +1,13 @@
+[type="button"]:not(:disabled),
+[type="reset"]:not(:disabled),
+[type="submit"]:not(:disabled),
+button:not(:disabled) {
+  cursor: pointer;
+  background: blue;
+  border-radius: none;
+  border: none;
+  border-radius: 5px;
+  color: beige;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 10px;
+}
